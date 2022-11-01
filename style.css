@@ -1,0 +1,45 @@
+/* * {
+  box-sizing: border-box;
+}
+
+h1, h2, form {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+}
+
+button:hover {
+  color: rgb(195, 215, 235);
+  background: blue;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+h2 {
+  color: rebeccapurple;
+  font-size: 100px;
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+h1, form, h2 {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+}
+
+h2 {
+  color: orangered;
+  font-size: 100px;
+}
+
+
